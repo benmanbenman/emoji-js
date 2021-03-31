@@ -10,4 +10,4 @@ Then put the following in your HTML's head:
 To emojify a string:
 x = emojify(y)
 
-If y is `:wave: hello!` then x will be set to `👋 hello`.
+If y is `:wave: hello!` then x will be set to `👋 hello!`.
