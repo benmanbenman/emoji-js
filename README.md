@@ -8,7 +8,7 @@ Then put the following in your HTML's head:
 `<script type="text/javascript" src="emoji.js"></script`
 
 To emojify a string:
-x = emojify(y)
+`x = emojify(y)`
 
 If `y` is `:wave: hello!` then `x` will be set to `👋 hello!`.
 
