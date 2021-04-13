@@ -17,4 +17,4 @@ A demojify function
 
 More emoji
 
-Use an different symbol than a colon
+Use an different symbol to indicate an emoji
